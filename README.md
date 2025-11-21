@@ -1,4 +1,4 @@
-# WaiterApp (API)
+# WaiterApp (Backend)
 
 API of the WaiterApp, an app made to help waiters to manage orders.
 
