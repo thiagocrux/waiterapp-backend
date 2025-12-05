@@ -38,7 +38,7 @@ Before installing and running this project, make sure you have the following:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/thiagocrux/waiterapp-api.git
+git clone https://github.com/thiagocrux/waiterapp-backend.git
 ```
 
 2. Browse to the project folder:
